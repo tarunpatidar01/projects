@@ -1,2 +1,3 @@
 # projects
-Basic Practice Project
+Hello Github
+Author - Tarun Patidar
